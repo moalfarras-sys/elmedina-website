@@ -1,6 +1,6 @@
-# Moapp
+# App
 
-Premium restaurant website project for **Moapp**, serving El Medina Shisha Café & Restaurant on Splaiul Unirii 162, București, România.
+Premium restaurant website project for **App**, serving El Medina Shisha Café & Restaurant on Splaiul Unirii 162, București, România.
 
 ## Tech Stack
 
@@ -119,4 +119,4 @@ Menu items, business info, and SEO settings are managed through structured data 
 
 ## License
 
-Private — Moapp. All rights reserved.
+Private — App. All rights reserved.
