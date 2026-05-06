@@ -120,3 +120,7 @@ Menu items, business info, and SEO settings are managed through structured data 
 ## License
 
 Private — El Medina Shisha Café & Restaurant. All rights reserved.
+
+## IPTV OS Experience Blueprint
+
+A premium Android TV + mobile IPTV OS concept page is available at `/iptv-os-experience`. It summarizes the requested native Kotlin/Compose architecture, TV remote UX, streaming engine, server-ingestion pipeline, offline-first data strategy, and performance rules. The supporting implementation blueprint and research links live in `docs/iptv-os-research.md`.
