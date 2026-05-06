@@ -1,6 +1,6 @@
-# El Medina — Shisha Café & Restaurant
+# Moapp
 
-Premium restaurant website for **El Medina Shisha Café & Restaurant**, located on Splaiul Unirii 162, București, România.
+Premium restaurant website project for **Moapp**, serving El Medina Shisha Café & Restaurant on Splaiul Unirii 162, București, România.
 
 ## Tech Stack
 
@@ -119,4 +119,4 @@ Menu items, business info, and SEO settings are managed through structured data 
 
 ## License
 
-Private — El Medina Shisha Café & Restaurant. All rights reserved.
+Private — Moapp. All rights reserved.
